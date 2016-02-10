@@ -11,7 +11,7 @@ puts "Welcome to the Bond Adventure!"
 puts "Your mission is to track down the nefarious, Dr. Hugo Goldfinger!"
 puts "What do you want to do James?"
 
-#test comment jhlakjhadkhks;d;ajhgghjsdkhjakjhsdjdk
+#test comment jhlakjhadkhks;d;ajhgghjsdkhjakjhsdjdks
 
 def options
 		"Options: drive your car (car), talk to mysterious beauty at the bar (beauty),
